@@ -1,5 +1,5 @@
 ##Spring-Boot With Dubbox ##
-该项目整合了最新的Spring Boot和功能强大的RPC框架Dubbox<br>
+该项目整合了最新的Spring Boot 1.2.3 和功能强大的RPC框架Dubbox 2.5.3<br>
 
 最新版本的Spring Boot包含了Metrics模块<br>
 
